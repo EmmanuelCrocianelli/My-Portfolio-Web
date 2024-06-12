@@ -84,7 +84,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
+<<<<<<< HEAD
                      
+=======
+>>>>>>> gh-pages
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                     </Tab.Pane>
