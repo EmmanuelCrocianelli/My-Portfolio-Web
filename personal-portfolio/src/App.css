@@ -569,11 +569,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .newsletter-bx {
-<<<<<<< HEAD
-  background: rgba(26, 23, 25, 0.5); /* Fondo negro con transparencia */
-=======
   background: rgba(16, 15, 16, 0.5); /* Fondo negro con transparencia */
->>>>>>> gh-pages
   border-radius: 55px;
   color: #ffffff;
   padding: 85px 125px;
